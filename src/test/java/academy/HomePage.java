@@ -22,6 +22,7 @@ public class HomePage extends Base {
 	{
 		driver=initializeDriver();
 		log.info("Driver is initialized");
+		log.info("GIT update 1");
 		
 	}
 	
