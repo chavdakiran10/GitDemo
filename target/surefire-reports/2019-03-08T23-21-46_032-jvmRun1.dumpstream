@@ -1,0 +1,990 @@
+# Created at 2019-03-08T23:21:51.001
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-03-08T23:21:53.632
+Unexpected IOException with stream: Mar 08, 2019 11:21:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2019-03-08T23:21:53.725
+Unexpected IOException with stream: S
+
+# Created at 2019-03-08T23:21:53.726
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.727
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.727
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.728
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.729
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:21:53.729
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:21:53.730
+Unexpected IOException with stream: g
+
+# Created at 2019-03-08T23:21:53.731
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.731
+Unexpected IOException with stream: C
+
+# Created at 2019-03-08T23:21:53.732
+Unexpected IOException with stream: h
+
+# Created at 2019-03-08T23:21:53.733
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.733
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.734
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:21:53.735
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.735
+Unexpected IOException with stream: D
+
+# Created at 2019-03-08T23:21:53.736
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.737
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:21:53.737
+Unexpected IOException with stream: v
+
+# Created at 2019-03-08T23:21:53.738
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.739
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.739
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.740
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:21:53.741
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:21:53.741
+Unexpected IOException with stream: 4
+
+# Created at 2019-03-08T23:21:53.742
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:21:53.743
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:21:53.743
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:21:53.744
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:21:53.745
+Unexpected IOException with stream: 8
+
+# Created at 2019-03-08T23:21:53.745
+Unexpected IOException with stream: 4
+
+# Created at 2019-03-08T23:21:53.747
+Unexpected IOException with stream: 0
+
+# Created at 2019-03-08T23:21:53.747
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:21:53.748
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.748
+Unexpected IOException with stream: (
+
+# Created at 2019-03-08T23:21:53.749
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:21:53.750
+Unexpected IOException with stream: 3
+
+# Created at 2019-03-08T23:21:53.750
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:21:53.751
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.751
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.752
+Unexpected IOException with stream: 7
+
+# Created at 2019-03-08T23:21:53.753
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.753
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.754
+Unexpected IOException with stream: b
+
+# Created at 2019-03-08T23:21:53.755
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.755
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.756
+Unexpected IOException with stream: 7
+
+# Created at 2019-03-08T23:21:53.756
+Unexpected IOException with stream: 3
+
+# Created at 2019-03-08T23:21:53.757
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.757
+Unexpected IOException with stream: 3
+
+# Created at 2019-03-08T23:21:53.758
+Unexpected IOException with stream: 7
+
+# Created at 2019-03-08T23:21:53.759
+Unexpected IOException with stream: 8
+
+# Created at 2019-03-08T23:21:53.759
+Unexpected IOException with stream: 3
+
+# Created at 2019-03-08T23:21:53.760
+Unexpected IOException with stream: f
+
+# Created at 2019-03-08T23:21:53.760
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.761
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.762
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:21:53.762
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.763
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.764
+Unexpected IOException with stream: b
+
+# Created at 2019-03-08T23:21:53.764
+Unexpected IOException with stream: 9
+
+# Created at 2019-03-08T23:21:53.765
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:21:53.766
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.766
+Unexpected IOException with stream: b
+
+# Created at 2019-03-08T23:21:53.767
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:21:53.768
+Unexpected IOException with stream: b
+
+# Created at 2019-03-08T23:21:53.769
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.770
+Unexpected IOException with stream: 7
+
+# Created at 2019-03-08T23:21:53.770
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.771
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.772
+Unexpected IOException with stream: 3
+
+# Created at 2019-03-08T23:21:53.772
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:21:53.773
+Unexpected IOException with stream: 1
+
+# Created at 2019-03-08T23:21:53.773
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.774
+Unexpected IOException with stream: 1
+
+# Created at 2019-03-08T23:21:53.774
+Unexpected IOException with stream: )
+
+# Created at 2019-03-08T23:21:53.775
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.775
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.776
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:21:53.776
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.777
+Unexpected IOException with stream: p
+
+# Created at 2019-03-08T23:21:53.777
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.778
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.779
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.779
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.780
+Unexpected IOException with stream: 4
+
+# Created at 2019-03-08T23:21:53.780
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:21:53.781
+Unexpected IOException with stream: 4
+
+# Created at 2019-03-08T23:21:53.782
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:21:53.782
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:21:53.783
+Unexpected IOException with stream: 
+
+# Created at 2019-03-08T23:21:53.783
+Unexpected IOException with stream: 
+
+
+# Created at 2019-03-08T23:21:53.784
+Unexpected IOException with stream: O
+
+# Created at 2019-03-08T23:21:53.784
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:21:53.785
+Unexpected IOException with stream: l
+
+# Created at 2019-03-08T23:21:53.786
+Unexpected IOException with stream: y
+
+# Created at 2019-03-08T23:21:53.786
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.787
+Unexpected IOException with stream: l
+
+# Created at 2019-03-08T23:21:53.787
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.788
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.788
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.789
+Unexpected IOException with stream: l
+
+# Created at 2019-03-08T23:21:53.789
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.790
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.791
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.791
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:21:53.792
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:21:53.792
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.793
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.794
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.794
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:21:53.795
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.795
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:21:53.796
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.797
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.797
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.798
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.798
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.799
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.799
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.800
+Unexpected IOException with stream: l
+
+# Created at 2019-03-08T23:21:53.801
+Unexpected IOException with stream: l
+
+# Created at 2019-03-08T23:21:53.801
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.802
+Unexpected IOException with stream: w
+
+# Created at 2019-03-08T23:21:53.802
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.803
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.804
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:21:53.804
+Unexpected IOException with stream: 
+
+# Created at 2019-03-08T23:21:53.805
+Unexpected IOException with stream: 
+
+
+# Created at 2019-03-08T23:21:53.805
+Unexpected IOException with stream: P
+
+# Created at 2019-03-08T23:21:53.806
+Unexpected IOException with stream: l
+
+# Created at 2019-03-08T23:21:53.806
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.807
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.808
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.808
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.809
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.809
+Unexpected IOException with stream: p
+
+# Created at 2019-03-08T23:21:53.810
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.811
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.811
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.812
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.812
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.813
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.814
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.814
+Unexpected IOException with stream: p
+
+# Created at 2019-03-08T23:21:53.815
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.815
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.816
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.816
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.817
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.818
+Unexpected IOException with stream: u
+
+# Created at 2019-03-08T23:21:53.818
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.819
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.819
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.820
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.821
+Unexpected IOException with stream: b
+
+# Created at 2019-03-08T23:21:53.821
+Unexpected IOException with stream: y
+
+# Created at 2019-03-08T23:21:53.822
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.822
+Unexpected IOException with stream: C
+
+# Created at 2019-03-08T23:21:53.823
+Unexpected IOException with stream: h
+
+# Created at 2019-03-08T23:21:53.823
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.824
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.825
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:21:53.825
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.826
+Unexpected IOException with stream: D
+
+# Created at 2019-03-08T23:21:53.826
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.827
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:21:53.828
+Unexpected IOException with stream: v
+
+# Created at 2019-03-08T23:21:53.828
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.829
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.829
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.830
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.831
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:21:53.831
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.832
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.833
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.839
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.840
+Unexpected IOException with stream: l
+
+# Created at 2019-03-08T23:21:53.842
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.843
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.843
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.844
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.845
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.845
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.846
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.846
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.847
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.848
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.848
+Unexpected IOException with stream: f
+
+# Created at 2019-03-08T23:21:53.849
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.849
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.850
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:21:53.851
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.851
+Unexpected IOException with stream: w
+
+# Created at 2019-03-08T23:21:53.852
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.852
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.853
+Unexpected IOException with stream: k
+
+# Created at 2019-03-08T23:21:53.854
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.854
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.855
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.855
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.856
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.856
+Unexpected IOException with stream: p
+
+# Created at 2019-03-08T23:21:53.857
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:21:53.858
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.858
+Unexpected IOException with stream: v
+
+# Created at 2019-03-08T23:21:53.859
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.859
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:21:53.860
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:21:53.861
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.861
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.862
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.863
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.863
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.864
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.864
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.865
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.865
+Unexpected IOException with stream: b
+
+# Created at 2019-03-08T23:21:53.866
+Unexpected IOException with stream: y
+
+# Created at 2019-03-08T23:21:53.866
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.867
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:21:53.868
+Unexpected IOException with stream: a
+
+# Created at 2019-03-08T23:21:53.868
+Unexpected IOException with stream: l
+
+# Created at 2019-03-08T23:21:53.869
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:21:53.869
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.870
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:21:53.871
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.871
+Unexpected IOException with stream: u
+
+# Created at 2019-03-08T23:21:53.872
+Unexpected IOException with stream: s
+
+# Created at 2019-03-08T23:21:53.872
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:21:53.873
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:21:53.873
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:21:53.879
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:21:53.880
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:21:53.881
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:21:53.882
+Unexpected IOException with stream: 
+
+# Created at 2019-03-08T23:21:53.883
+Unexpected IOException with stream: 
+
+
+# Created at 2019-03-08T23:22:00.566
+Unexpected IOException with stream: Mar 08, 2019 11:22:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2019-03-08T23:22:17.437
+Unexpected IOException: 5,1,academy.HomePage,basePageNavigation(academy.HomePage),academy.HomePage,null,null
+
+
+# Created at 2019-03-08T23:22:21.596
+Unexpected IOException: 8,1,academy.HomePage,basePageNavigation(academy.HomePage),null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52213}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 2a551bdefbacfc01709b5b6119566b97,null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52213}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 2a551bdefbacfc01709b5b6119566b97,HomePage.basePageNavigation:33 \00BB WebDriver chrome not reachable\000A  (Session inf...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52213}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 2a551bdefbacfc01709b5b6119566b97\000A\0009at academy.HomePage.basePageNavigation(HomePage.java:33)\000A
+
+
+# Created at 2019-03-08T23:22:21.598
+Unexpected IOException: 5,1,academy.HomePage,basePageNavigation(academy.HomePage),academy.HomePage,null,null
+
+
+# Created at 2019-03-08T23:22:23.603
+Unexpected IOException with stream: [
+
+# Created at 2019-03-08T23:22:23.604
+Unexpected IOException with stream: 1
+
+# Created at 2019-03-08T23:22:23.604
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:22:23.605
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:22:23.605
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:22:23.606
+Unexpected IOException with stream: 0
+
+# Created at 2019-03-08T23:22:23.606
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:22:23.607
+Unexpected IOException with stream: 7
+
+# Created at 2019-03-08T23:22:23.607
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:22:23.608
+Unexpected IOException with stream: 4
+
+# Created at 2019-03-08T23:22:23.608
+Unexpected IOException with stream: 3
+
+# Created at 2019-03-08T23:22:23.609
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:22:23.609
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:22:23.610
+Unexpected IOException with stream: 8
+
+# Created at 2019-03-08T23:22:23.610
+Unexpected IOException with stream: 9
+
+# Created at 2019-03-08T23:22:23.611
+Unexpected IOException with stream: ]
+
+# Created at 2019-03-08T23:22:23.611
+Unexpected IOException with stream: [
+
+# Created at 2019-03-08T23:22:23.612
+Unexpected IOException with stream: W
+
+# Created at 2019-03-08T23:22:23.612
+Unexpected IOException with stream: A
+
+# Created at 2019-03-08T23:22:23.613
+Unexpected IOException with stream: R
+
+# Created at 2019-03-08T23:22:23.613
+Unexpected IOException with stream: N
+
+# Created at 2019-03-08T23:22:23.614
+Unexpected IOException with stream: I
+
+# Created at 2019-03-08T23:22:23.614
+Unexpected IOException with stream: N
+
+# Created at 2019-03-08T23:22:23.614
+Unexpected IOException with stream: G
+
+# Created at 2019-03-08T23:22:23.615
+Unexpected IOException with stream: ]
+
+# Created at 2019-03-08T23:22:23.615
+Unexpected IOException with stream: :
+
+# Created at 2019-03-08T23:22:23.616
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:22:23.616
+Unexpected IOException with stream: T
+
+# Created at 2019-03-08T23:22:23.617
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:22:23.617
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:22:23.618
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:22:23.618
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:22:23.619
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:22:23.619
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:22:23.620
+Unexpected IOException with stream: u
+
+# Created at 2019-03-08T23:22:23.620
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:22:23.621
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:22:23.621
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:22:23.622
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:22:23.622
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:22:23.623
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:22:23.623
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:22:23.624
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:22:23.624
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:22:23.625
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:22:23.625
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:22:23.626
+Unexpected IOException with stream: g
+
+# Created at 2019-03-08T23:22:23.626
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:22:23.627
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:22:23.627
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:22:23.628
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:22:23.628
+Unexpected IOException with stream: C
+
+# Created at 2019-03-08T23:22:23.629
+Unexpected IOException with stream: h
+
+# Created at 2019-03-08T23:22:23.629
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:22:23.630
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:22:23.630
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:22:23.631
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:22:23.631
+Unexpected IOException with stream: ,
+
+# Created at 2019-03-08T23:22:23.632
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:22:23.632
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:22:23.633
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:22:23.633
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:22:23.634
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:22:23.634
+Unexpected IOException with stream: y
+
+# Created at 2019-03-08T23:22:23.634
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:22:23.635
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:22:23.636
+Unexpected IOException with stream: g
+
+# Created at 2019-03-08T23:22:23.636
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:22:23.637
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:22:23.637
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:22:23.638
+Unexpected IOException with stream: 
+
+# Created at 2019-03-08T23:22:23.638
+Unexpected IOException with stream: 
+
+
+# Created at 2019-03-08T23:22:27.778
+Unexpected IOException: 8,1,academy.HomePage,basePageNavigation(academy.HomePage),null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52213}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 2a551bdefbacfc01709b5b6119566b97,null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52213}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 2a551bdefbacfc01709b5b6119566b97,HomePage.basePageNavigation:33 \00BB WebDriver chrome not reachable\000A  (Session inf...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52213}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 2a551bdefbacfc01709b5b6119566b97\000A\0009at academy.HomePage.basePageNavigation(HomePage.java:33)\000A
+
+
+# Created at 2019-03-08T23:22:27.790
+Unexpected IOException: 5,1,academy.ValidateTitle,checkBar(academy.ValidateTitle),academy.ValidateTitle,null,null
+
+
+# Created at 2019-03-08T23:22:27.859
+Unexpected IOException: 8,1,academy.ValidateTitle,checkBar(academy.ValidateTitle),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1\000A*** Element info: {Using=css selector\002C value=.nav.navbar-nav.navbar-right},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1\000A*** Element info: {Using=css selector\002C value=.nav.navbar-nav.navbar-right},ValidateTitle.checkBar:41 \00BB NoSuchWindow no such window: target window already...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1\000A*** Element info: {Using=css selector\002C value=.nav.navbar-nav.navbar-right}\000A\0009at academy.ValidateTitle.checkBar(ValidateTitle.java:41)\000A
+
+
+# Created at 2019-03-08T23:22:27.862
+Unexpected IOException: 5,1,academy.ValidateTitle,checkTitle(academy.ValidateTitle),academy.ValidateTitle,null,null
+
+
+# Created at 2019-03-08T23:22:27.904
+Unexpected IOException: 8,1,academy.ValidateTitle,checkTitle(academy.ValidateTitle),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1\000A*** Element info: {Using=css selector\002C value=.text-center},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1\000A*** Element info: {Using=css selector\002C value=.text-center},ValidateTitle.checkTitle:31 \00BB NoSuchWindow no such window: target window alrea...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1\000A*** Element info: {Using=css selector\002C value=.text-center}\000A\0009at academy.ValidateTitle.checkTitle(ValidateTitle.java:31)\000A
+
+
+# Created at 2019-03-08T23:22:30.718
+Unexpected IOException: 8,1,academy.ValidateTitle,tearDown(academy.ValidateTitle),null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1,null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1,ValidateTitle.tearDown:49 \00BB WebDriver chrome not reachable\000A  (Session info: ch...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52226}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: ad553627ba163e97baa7972f8e23eaf1\000A\0009at academy.ValidateTitle.tearDown(ValidateTitle.java:49)\000A
+
+
+# Created at 2019-03-08T23:22:31.064
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

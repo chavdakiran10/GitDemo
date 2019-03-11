@@ -1,0 +1,5 @@
+16:47:40.172 [main] INFO  academy.HomePage - Successfully Validated Kiran_a@gmail.com
+16:47:43.917 [main] INFO  academy.HomePage - Clicking on URL
+16:47:50.859 [main] INFO  academy.HomePage - Successfully Validated aarohi_a@gmail.com
+16:48:06.093 [main] INFO  academy.ValidateTitle - Driver is initialized and url is hit
+16:48:06.911 [main] INFO  academy.ValidateTitle - Validated title

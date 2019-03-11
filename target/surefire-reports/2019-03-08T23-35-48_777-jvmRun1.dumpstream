@@ -1,0 +1,479 @@
+# Created at 2019-03-08T23:36:38.672
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-03-08T23:36:44.754
+Unexpected IOException: 8,1,academy.HomePage,basePageNavigation(academy.HomePage),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52653}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: f594fc0ef579ecbdf9c93709912ed9df\000A*** Element info: {Using=css selector\002C value=input[id='user_email']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52653}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: f594fc0ef579ecbdf9c93709912ed9df\000A*** Element info: {Using=css selector\002C value=input[id='user_email']},HomePage.basePageNavigation:39 \00BB NoSuchWindow no such window: target window al...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52653}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: f594fc0ef579ecbdf9c93709912ed9df\000A*** Element info: {Using=css selector\002C value=input[id='user_email']}\000A\0009at academy.HomePage.basePageNavigation(HomePage.java:39)\000A
+
+
+# Created at 2019-03-08T23:36:44.758
+Unexpected IOException: 5,1,academy.HomePage,basePageNavigation(academy.HomePage),academy.HomePage,null,null
+
+
+# Created at 2019-03-08T23:36:44.836
+Unexpected IOException: 8,1,academy.HomePage,basePageNavigation(academy.HomePage),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52653}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: f594fc0ef579ecbdf9c93709912ed9df,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52653}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: f594fc0ef579ecbdf9c93709912ed9df,HomePage.basePageNavigation:33 \00BB NoSuchWindow no such window: target window al...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52653}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: f594fc0ef579ecbdf9c93709912ed9df\000A\0009at academy.HomePage.basePageNavigation(HomePage.java:33)\000A
+
+
+# Created at 2019-03-08T23:36:44.849
+Unexpected IOException: 5,1,academy.ValidateTitle,checkBar(academy.ValidateTitle),academy.ValidateTitle,null,null
+
+
+# Created at 2019-03-08T23:36:46.857
+Unexpected IOException with stream: [
+
+# Created at 2019-03-08T23:36:46.857
+Unexpected IOException with stream: 1
+
+# Created at 2019-03-08T23:36:46.858
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:36:46.859
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:36:46.859
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:36:46.860
+Unexpected IOException with stream: 0
+
+# Created at 2019-03-08T23:36:46.861
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:36:46.861
+Unexpected IOException with stream: 8
+
+# Created at 2019-03-08T23:36:46.862
+Unexpected IOException with stream: 4
+
+# Created at 2019-03-08T23:36:46.862
+Unexpected IOException with stream: 0
+
+# Created at 2019-03-08T23:36:46.863
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:36:46.863
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:36:46.864
+Unexpected IOException with stream: 9
+
+# Created at 2019-03-08T23:36:46.865
+Unexpected IOException with stream: 8
+
+# Created at 2019-03-08T23:36:46.865
+Unexpected IOException with stream: 3
+
+# Created at 2019-03-08T23:36:46.866
+Unexpected IOException with stream: ]
+
+# Created at 2019-03-08T23:36:46.866
+Unexpected IOException with stream: [
+
+# Created at 2019-03-08T23:36:46.867
+Unexpected IOException with stream: W
+
+# Created at 2019-03-08T23:36:46.868
+Unexpected IOException with stream: A
+
+# Created at 2019-03-08T23:36:46.868
+Unexpected IOException with stream: R
+
+# Created at 2019-03-08T23:36:46.869
+Unexpected IOException with stream: N
+
+# Created at 2019-03-08T23:36:46.869
+Unexpected IOException with stream: I
+
+# Created at 2019-03-08T23:36:46.870
+Unexpected IOException with stream: N
+
+# Created at 2019-03-08T23:36:46.871
+Unexpected IOException with stream: G
+
+# Created at 2019-03-08T23:36:46.871
+Unexpected IOException with stream: ]
+
+# Created at 2019-03-08T23:36:46.872
+Unexpected IOException with stream: :
+
+# Created at 2019-03-08T23:36:46.872
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:46.873
+Unexpected IOException with stream: T
+
+# Created at 2019-03-08T23:36:46.874
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:36:46.874
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:36:46.875
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:36:46.875
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:36:46.876
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:46.877
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:36:46.877
+Unexpected IOException with stream: u
+
+# Created at 2019-03-08T23:36:46.878
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:36:46.878
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:46.879
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:36:46.880
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:36:46.880
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:36:46.881
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:36:46.882
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:36:46.882
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:36:46.883
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:36:46.883
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:36:46.884
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:36:46.885
+Unexpected IOException with stream: g
+
+# Created at 2019-03-08T23:36:46.885
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:46.886
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:36:46.886
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:36:46.887
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:46.888
+Unexpected IOException with stream: C
+
+# Created at 2019-03-08T23:36:46.888
+Unexpected IOException with stream: h
+
+# Created at 2019-03-08T23:36:46.889
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:36:46.889
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:36:46.890
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:36:46.891
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:36:46.891
+Unexpected IOException with stream: ,
+
+# Created at 2019-03-08T23:36:46.892
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:46.892
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:36:46.893
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:36:46.894
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:36:46.894
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:36:46.895
+Unexpected IOException with stream: y
+
+# Created at 2019-03-08T23:36:46.895
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:36:46.896
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:36:46.896
+Unexpected IOException with stream: g
+
+# Created at 2019-03-08T23:36:46.897
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:36:46.898
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:36:46.898
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:36:46.899
+Unexpected IOException with stream: 
+
+# Created at 2019-03-08T23:36:46.899
+Unexpected IOException with stream: 
+
+
+# Created at 2019-03-08T23:36:50.872
+Unexpected IOException: 8,1,academy.ValidateTitle,checkBar(academy.ValidateTitle),null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4\000A*** Element info: {Using=css selector\002C value=.nav.navbar-nav.navbar-right},null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4\000A*** Element info: {Using=css selector\002C value=.nav.navbar-nav.navbar-right},ValidateTitle.checkBar:41 \00BB WebDriver chrome not reachable\000A  (Session info: ch...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4\000A*** Element info: {Using=css selector\002C value=.nav.navbar-nav.navbar-right}\000A\0009at academy.ValidateTitle.checkBar(ValidateTitle.java:41)\000A
+
+
+# Created at 2019-03-08T23:36:50.875
+Unexpected IOException: 5,1,academy.ValidateTitle,checkTitle(academy.ValidateTitle),academy.ValidateTitle,null,null
+
+
+# Created at 2019-03-08T23:36:52.883
+Unexpected IOException with stream: [
+
+# Created at 2019-03-08T23:36:52.885
+Unexpected IOException with stream: 1
+
+# Created at 2019-03-08T23:36:52.886
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:36:52.888
+Unexpected IOException with stream: 5
+
+# Created at 2019-03-08T23:36:52.889
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:36:52.891
+Unexpected IOException with stream: 0
+
+# Created at 2019-03-08T23:36:52.893
+Unexpected IOException with stream: 6
+
+# Created at 2019-03-08T23:36:52.894
+Unexpected IOException with stream: 8
+
+# Created at 2019-03-08T23:36:52.896
+Unexpected IOException with stream: 4
+
+# Created at 2019-03-08T23:36:52.897
+Unexpected IOException with stream: 1
+
+# Created at 2019-03-08T23:36:52.900
+Unexpected IOException with stream: 3
+
+# Created at 2019-03-08T23:36:52.901
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:36:52.903
+Unexpected IOException with stream: 0
+
+# Created at 2019-03-08T23:36:52.907
+Unexpected IOException with stream: 4
+
+# Created at 2019-03-08T23:36:52.908
+Unexpected IOException with stream: 2
+
+# Created at 2019-03-08T23:36:52.910
+Unexpected IOException with stream: ]
+
+# Created at 2019-03-08T23:36:52.911
+Unexpected IOException with stream: [
+
+# Created at 2019-03-08T23:36:52.913
+Unexpected IOException with stream: W
+
+# Created at 2019-03-08T23:36:52.914
+Unexpected IOException with stream: A
+
+# Created at 2019-03-08T23:36:52.916
+Unexpected IOException with stream: R
+
+# Created at 2019-03-08T23:36:52.917
+Unexpected IOException with stream: N
+
+# Created at 2019-03-08T23:36:52.919
+Unexpected IOException with stream: I
+
+# Created at 2019-03-08T23:36:52.920
+Unexpected IOException with stream: N
+
+# Created at 2019-03-08T23:36:52.921
+Unexpected IOException with stream: G
+
+# Created at 2019-03-08T23:36:52.923
+Unexpected IOException with stream: ]
+
+# Created at 2019-03-08T23:36:52.924
+Unexpected IOException with stream: :
+
+# Created at 2019-03-08T23:36:52.925
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:52.926
+Unexpected IOException with stream: T
+
+# Created at 2019-03-08T23:36:52.927
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:36:52.928
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:36:52.930
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:36:52.931
+Unexpected IOException with stream: d
+
+# Created at 2019-03-08T23:36:52.933
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:52.934
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:36:52.935
+Unexpected IOException with stream: u
+
+# Created at 2019-03-08T23:36:52.936
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:36:52.937
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:52.939
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:36:52.940
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:36:52.941
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:36:52.942
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:36:52.943
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:36:52.944
+Unexpected IOException with stream: c
+
+# Created at 2019-03-08T23:36:52.945
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:36:52.946
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:36:52.947
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:36:52.948
+Unexpected IOException with stream: g
+
+# Created at 2019-03-08T23:36:52.949
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:52.950
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:36:52.952
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:36:52.953
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:52.954
+Unexpected IOException with stream: C
+
+# Created at 2019-03-08T23:36:52.955
+Unexpected IOException with stream: h
+
+# Created at 2019-03-08T23:36:52.956
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:36:52.957
+Unexpected IOException with stream: o
+
+# Created at 2019-03-08T23:36:52.958
+Unexpected IOException with stream: m
+
+# Created at 2019-03-08T23:36:52.959
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:36:52.960
+Unexpected IOException with stream: ,
+
+# Created at 2019-03-08T23:36:52.961
+Unexpected IOException with stream:  
+
+# Created at 2019-03-08T23:36:52.962
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:36:52.963
+Unexpected IOException with stream: e
+
+# Created at 2019-03-08T23:36:52.965
+Unexpected IOException with stream: t
+
+# Created at 2019-03-08T23:36:52.967
+Unexpected IOException with stream: r
+
+# Created at 2019-03-08T23:36:52.968
+Unexpected IOException with stream: y
+
+# Created at 2019-03-08T23:36:52.970
+Unexpected IOException with stream: i
+
+# Created at 2019-03-08T23:36:52.971
+Unexpected IOException with stream: n
+
+# Created at 2019-03-08T23:36:52.972
+Unexpected IOException with stream: g
+
+# Created at 2019-03-08T23:36:52.974
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:36:52.975
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:36:52.977
+Unexpected IOException with stream: .
+
+# Created at 2019-03-08T23:36:52.978
+Unexpected IOException with stream: 
+
+# Created at 2019-03-08T23:36:52.980
+Unexpected IOException with stream: 
+
+
+# Created at 2019-03-08T23:36:57.164
+Unexpected IOException: 8,1,academy.ValidateTitle,checkTitle(academy.ValidateTitle),null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4\000A*** Element info: {Using=css selector\002C value=.text-center},null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4\000A*** Element info: {Using=css selector\002C value=.text-center},ValidateTitle.checkTitle:31 \00BB WebDriver chrome not reachable\000A  (Session info: ...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4\000A*** Element info: {Using=css selector\002C value=.text-center}\000A\0009at academy.ValidateTitle.checkTitle(ValidateTitle.java:31)\000A
+
+
+# Created at 2019-03-08T23:37:01.161
+Unexpected IOException: 8,1,academy.ValidateTitle,tearDown(academy.ValidateTitle),null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4,null,chrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4,ValidateTitle.tearDown:49 \00BB WebDriver chrome not reachable\000A  (Session info: ch...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=72.0.3626.121)\000A  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1)\002Cplatform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'KIRAN-PC'\002C ip: '192.168.2.204'\002C os.name: 'Windows 7'\002C os.arch: 'x86'\002C os.version: '6.1'\002C java.version: '1.8.0_201'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a...\002C userDataDir: C:\005CUsers\005CKiran\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C goog:chromeOptions: {debuggerAddress: localhost:52664}\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unexpectedAlertBehaviour: ignore\002C unhandledPromptBehavior: ignore\002C version: 72.0.3626.121\002C webStorageEnabled: true}\000ASession ID: 22acaf7fcd5fe63eacad2144c4a781a4\000A\0009at academy.ValidateTitle.tearDown(ValidateTitle.java:49)\000A
+
+
+# Created at 2019-03-08T23:37:01.603
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
